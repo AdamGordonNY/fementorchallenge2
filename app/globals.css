@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+.background {
+  background-color: hsl(47, 88%, 63%);
+}
+.card-shadow {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  top: 4px;
+  left: 4px;
+  z-index: -1;
+}
